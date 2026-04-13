@@ -1,0 +1,13 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 60 C18 30, 50 10, 75 18 C100 26, 108 50, 100 72 C92 94, 60 108, 38 96 C16 84, 22 90, 20 60Z" fill="#FDE047" />
+  <circle cx="62" cy="58" r="22" stroke="#1a1a1a" stroke-width="3.5" fill="none" stroke-linecap="round" />
+  <circle cx="62" cy="58" r="13" stroke="#1a1a1a" stroke-width="3.5" fill="none" stroke-linecap="round" />
+  <circle cx="62" cy="58" r="5" fill="#1a1a1a" />
+  <line x1="62" y1="28" x2="62" y2="36" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <line x1="62" y1="80" x2="62" y2="88" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <line x1="32" y1="58" x2="40" y2="58" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <line x1="84" y1="58" x2="92" y2="58" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <line x1="96" y1="30" x2="100" y2="26" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="28" y1="88" x2="24" y2="92" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="100" y1="88" x2="104" y2="92" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+</svg>

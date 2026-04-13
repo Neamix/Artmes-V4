@@ -1,0 +1,15 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M18 58 C14 28, 52 8, 80 22 C108 36, 110 64, 98 84 C86 104, 52 112, 32 96 C12 80, 22 88, 18 58Z" fill="#FDE047" />
+  <circle cx="61" cy="50" r="8" fill="#1a1a1a" />
+  <circle cx="38" cy="74" r="6" stroke="#1a1a1a" stroke-width="3" fill="white" />
+  <circle cx="84" cy="74" r="6" stroke="#1a1a1a" stroke-width="3" fill="white" />
+  <circle cx="61" cy="88" r="6" stroke="#1a1a1a" stroke-width="3" fill="white" />
+  <line x1="54" y1="56" x2="43" y2="69" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <line x1="68" y1="56" x2="79" y2="69" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <line x1="44" y1="79" x2="56" y2="87" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <line x1="78" y1="79" x2="66" y2="87" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M35 44 L48 36 L60 40 L75 30" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <polyline points="71,27 75,30 72,34" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="92" y1="40" x2="96" y2="36" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="28" y1="40" x2="24" y2="36" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+</svg>

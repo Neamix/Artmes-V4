@@ -1,0 +1,12 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M15 55 C12 25, 48 8, 78 20 C108 32, 112 58, 102 80 C92 102, 58 112, 35 98 C12 84, 18 85, 15 55Z" fill="#FDE047" />
+  <path d="M50 42 L72 42 L72 68 C72 76 66 82 61 82 C56 82 50 76 50 68 Z" stroke="#1a1a1a" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M50 50 C44 50 38 54 38 62 C38 70 44 74 50 72" stroke="#1a1a1a" stroke-width="3.5" fill="none" stroke-linecap="round" />
+  <path d="M72 50 C78 50 84 54 84 62 C84 70 78 74 72 72" stroke="#1a1a1a" stroke-width="3.5" fill="none" stroke-linecap="round" />
+  <line x1="61" y1="82" x2="61" y2="90" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <line x1="50" y1="90" x2="72" y2="90" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M58 58 L61 52 L64 58 L70 58 L65.5 62 L67 68 L61 64 L55 68 L56.5 62 L52 58 Z" fill="#1a1a1a" />
+  <line x1="30" y1="35" x2="26" y2="31" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="94" y1="35" x2="98" y2="31" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="28" y1="75" x2="24" y2="79" stroke="#1a1a1a" stroke-width="2.5" stroke-linecap="round" />
+</svg>

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Artmes",
+  title: "Artmes | Maximize your productivity",
   description: "Discover Artmes, the effortlessly simple lead management system built for ambitious teams. Seamlessly capture, track, and convert your leads into loyal customers with zero friction.",
 };
 
